@@ -2,7 +2,7 @@
 These are all skills that can be used for your beautiful web design.
 
 ## 1. Atelier - Minimal, Elegant [White/Black Theme]
-<div style="display: grid; gap: 20px;">
+<div style="display: flex; gap: 20px;">
   <div>
     <h3>White Theme</h3>
     <img src="Atelier-white.png" alt="Atelier White-Theme" width="300">
