@@ -2,5 +2,4 @@
 These are all skills that can be used for your beautiful web design.
 
 ## 1. Atelier - Minimal, Elegant [White/Black Theme]
-![Atelier White-Theme](Atelier-white.png)
-![Atelier Dark-Theme](Atelier-dark.png)
+![Atelier White-Theme](Atelier-white.png) ![Atelier Dark-Theme](Atelier-dark.png)
