@@ -6,4 +6,4 @@ Welcome to Sharp Design, AI Agent skills which will create you award winning web
 |---|---|
 | ![Atelier White-Theme](Atelier-white.png) | ![Atelier Dark-Theme](Atelier-dark.png) |
 
-**[Download Atelier HTML](Atelier.html)** - Get the complete HTML template
+**[Download Atelier HTML](Atelier-deepseek-pro4.html)** - Get the complete HTML template
