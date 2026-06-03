@@ -8,7 +8,7 @@ Welcome to Sharp Design, AI Agent skills for creating award winning websites.
 
 > Will create a single HTML file, no frameworks or external tools.
 - [ ] Resource-intensive
-- [x ] Lightweight
+- [x] Lightweight
 
 **[Download Atelier HTML](Atelier-deepseek-pro4.html)** - Get the complete HTML template
 **Read the ABOUT-SKILL before executing the skill!** - [[About.md]]
